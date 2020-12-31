@@ -92,7 +92,11 @@ h4 {
 }
 
 .navbar a:hover {
-  color: white;
+  text-align: center;
+  padding: 6px;
+  border-radius: 6px;
+  background-color: white;
+  color: black;
   transition: all 0.3s linear;
 }
 
@@ -153,7 +157,7 @@ hr {
 }
 
 #link {
-  background-color: grey;
+  background-color: rgb(164, 150, 150);
   padding: 8px;
   border-radius: 8px;
 }
@@ -210,8 +214,8 @@ hr {
 
 .skill {
   padding: 6px;
-  font-weight: bold;
-  color: white;
+  font-weight: bolder;
+  color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   line-height: 20px;
   word-spacing: 5px;
@@ -298,7 +302,7 @@ hr {
 .fa-facebook {
   background: grey;
   color: black;
-  margin-left: 462px;
+  margin-left: 472px;
 }
 
 .fa-twitter {
