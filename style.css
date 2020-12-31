@@ -20,29 +20,30 @@ ul {
   list-style-type: none;
 }
 
-h4{
+h4 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   font-size: 13px;
   margin-top: 50px;
   background-color: black;
-  color: grey;
+  color: white;
   padding: 5px 0px 5px 0px;
+  width: 100%;
 }
 
-#footer{
+#footer {
   margin-top: 80px;
 }
 
-#footer1{
+#footer1 {
   margin-top: 28px;
 }
 
-#footer2{
+#footer2 {
   margin-top: 31px;
 }
 
-#footer3{
+#footer3 {
   margin-top: 46px;
 }
 
@@ -243,6 +244,7 @@ hr {
   text-align: center;
   background-color: grey;
   font-size: 17px;
+  border-radius: 10px;
 }
 
 .aboutme:hover {
@@ -364,26 +366,24 @@ hr {
   font-weight: bold;
 }
 
-.formmsgbox:hover{ 
+.formmsgbox:hover {
   background-color: rgb(172, 157, 157);
   transform: scale(1.3);
   transition: all 0.3s linear;
-} 
+}
 
-.formname:hover{ 
+.formname:hover {
   background-color: rgb(172, 157, 157);
   transform: scale(1.3);
   transition: all 0.3s linear;
-} 
+}
 
-.formemail:hover{ 
+.formemail:hover {
   background-color: rgb(172, 157, 157);
   transform: scale(1.3);
   transition: all 0.3s linear;
-} 
+}
 
-.btn:hover{ 
+.btn:hover {
   background-color: rgb(172, 157, 157);
-  transform: scale(1.2);
-  transition: all 0.3s linear;
-} 
+}
